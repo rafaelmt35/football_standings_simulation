@@ -1,6 +1,6 @@
 # Football Standings Simulation
 
-Implement an Poisson distribution for simulate standings in Football game
+Implement Poisson distribution for simulate standings in Football game
 
 ## Documentation
 
