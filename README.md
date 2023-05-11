@@ -1,16 +1,9 @@
-# football_manager
+# Football Standings Simulation
 
-A new Flutter project.
+Implement an Poisson distribution for simulate standings in Football game
 
-## Getting Started
+## Documentation
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/rafaelmt35/football_standings_simulation/assets/99629720/326d1f52-57e5-4668-8aa6-fc6511b317be" width="200" height="400">
+<img src="https://github.com/rafaelmt35/football_standings_simulation/assets/99629720/757d0742-7df5-430d-93f6-39999ad9e0eb" width="200" height="400">
+<img src="https://github.com/rafaelmt35/football_standings_simulation/assets/99629720/06fd16d3-4b19-40fd-a13d-daf322afac0b" width="200" height="400">
